@@ -17,7 +17,7 @@
       "email": "kabina.suwal92@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "GeniusSystems\\Paale\\": "src"
